@@ -1,0 +1,40 @@
+iPhone 13 Pro,Apple,Smartphone com tela de 6.1 polegadas e chip A15 Bionic,7000.00
+Galaxy S21,Samsung,Smartphone com tela de 6.2 polegadas e chip Exynos 2100,4200.00
+ThinkPad X1 Carbon,Lenovo,Laptop empresarial com tela de 14 polegadas e processador Intel i7,7500.00
+MacBook Pro 16,Apple,Laptop com tela de 16 polegadas e chip M1 Pro,13000.00
+PlayStation 5,Sony,Console de jogos de nova geração com SSD de 825GB,4500.00
+Xbox Series X,Microsoft,Console de jogos de nova geração com SSD de 1TB,4500.00
+Nespresso Vertuo,De'Longhi,Máquina de café expresso e longo com cápsulas,1000.00
+Dyson V11,Dyson,Aspirador de pó sem fio com bateria de longa duração,3200.00
+LG OLED55C1,LG,TV OLED 4K com tela de 55 polegadas,6000.00
+Geladeira Inverter Panasonic,Panasonic,Geladeira com tecnologia Inverter e capacidade de 400L,2900.00
+Ar Condicionado Split Inverter,Electrolux,Ar condicionado com tecnologia Inverter de 12000 BTUs,2200.00
+Escrivaninha Gamer,Datamax,Escrivaninha com estrutura ergonômica e espaço para três monitores,1000.00
+Poltrona Reclinável,Astros,Poltrona reclinável com revestimento em couro,1500.00
+Micro-ondas Inox,Brastemp,Micro-ondas com capacidade de 32L e grill,800.00
+Ryzen 9 5900X,AMD,Processador de 12 núcleos e 24 threads,3500.00
+GeForce RTX 3080,NVIDIA,Placa de vídeo com 10GB de memória GDDR6X,9000.00
+Cadeira Gamer DXRacer,DXRacer,Cadeira ergonômica com inclinação e apoio para os pés,1500.00
+Caixa de Som JBL Boombox,JBL,Caixa de som portátil à prova d'água,1600.00
+Sofá Retrátil 3 Lugares,Oppa,Sofá com tecido em suede e função retrátil,2000.00
+Samsung Galaxy Tab S7,Samsung,Tablet com tela de 11 polegadas e caneta S Pen,3000.00
+Soundbar Samsung HW-Q800A,Samsung,Soundbar com subwoofer sem fio e Dolby Atmos,2200.00
+Smart TV 4K 50" TCL,TCL,Televisão com tela de 50 polegadas e sistema operacional Android TV,2400.00
+Máquina de Lavar Brastemp 11kg,Brastemp,Máquina de lavar com ciclo tira-manchas e 11kg de capacidade,1300.00
+Monitor Gamer Alienware,Alienware,Monitor de 34 polegadas ultrawide com taxa de atualização de 144Hz,4000.00
+Coifa de Parede Tramontina,Tramontina,Coifa de 90cm em aço inox,1200.00
+Logitech G Pro X,Logitech,Teclado mecânico com switches intercambiáveis,700.00
+Cama Box Queen Size,Ortobom,Cama Box com colchão de molas ensacadas,2000.00
+Amazon Echo Show 10,Amazon,Smart display com Alexa e tela de 10 polegadas,1100.00
+Mesa de Jantar 6 Lugares,Moveis Rainha,Mesa de jantar em madeira maciça para 6 pessoas,1800.00
+Air Fryer Mondial,Mondial,Fritadeira elétrica sem óleo com capacidade de 4L,400.00
+Mixer KitchenAid,KitchenAid,Mixer de mão com várias velocidades,500.00
+iPad Pro 11,Apple,Tablet com tela de 11 polegadas e chip M1,7000.00
+Samsung Galaxy Watch 4,Samsung,Smartwatch com monitoramento de saúde e sistema operacional Wear OS,1500.00
+Bicama com Gavetas,Móveis Estrela,Bicama em madeira maciça com gavetas embutidas,900.00
+Purificador de Água Electrolux,Electrolux,Purificador de água com sistema de filtragem de 3 etapas,600.00
+Mouse Gamer Razer DeathAdder,Razer,Mouse ergonômico com sensor óptico de alta precisão,300.00
+Estação de Trabalho Completa,Móveis Office,Estação de trabalho com mesa cadeira e gaveteiro,2500.00
+Fogão 5 Bocas Consul,Consul,Fogão a gás com 5 bocas e forno elétrico,1100.00
+Lava-louças 8 Serviços,Electrolux,Lava-louças compacta para 8 serviços,1600.00
+Guarda-roupa 3 Portas,Móveis Ditalia,Guarda-roupa em MDF com 3 portas e 4 gavetas,1200.00
