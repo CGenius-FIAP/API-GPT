@@ -35,7 +35,59 @@
 
 ## <a id="install"></a>Installation
 
+  For this specific API, all you need to do is:
+  ### 1. Clone the repository
+  > git clone https://github.com/CGenius-FIAP/API-GPT.git
+<br>
+
+  ### 2. Navigate to the Directory
+  > cd API-GPT
+<br>
+
+  ### 3. [OPTIONAL] Depending on your machine's Python or personal preferences, you might want to create a virtual environment
+  > python -m venv venv
+<br>
+
+  ### 4. Install packages and dependencies
+  > pip install -r requirements.txt
+
+  Or 
+
+  > python data/script_pip.py
+
+---
+
+
 ## <a id="manual"></a>How to use
-## <a id="techs"></a>Techs
+
+To test the API, you will need an API CLIENT, such as Insomnia.
+
+[Direct link for the official site download](https://updates.insomnia.rest/downloads/windows/latest?app=com.insomnia.app&source=website) <br>
+
+Or else download it manually at their site: https://insomnia.rest/download
+
+---
+
+
+
 ## <a id="endpoints"></a>Endpoints
+  | METHOD | ADDRESS                   | ENDPOINT |
+|--------|---------------------------|----------|
+| POST   | http://20.226.206.195:8000| query    |
+| GET    | http://20.226.206.195:8000| reset    |
+
+  
+
+
+---
+
+
+## <a id="techs"></a>Techs
+
+
+
+
+---
+
+
 ## <a id="doc"></a>Documentation
