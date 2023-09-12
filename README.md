@@ -126,6 +126,28 @@ For this project, we used a variety of technologies to develop a robust and scal
 
 ---
 
+## <a name="known-issues"></a>Known Issues 🐛🔍
+
+We appreciate your interest in our project and would like to keep you informed about some of the issues we are currently facing:
+
+### Chatbot Memory Limitations 🤖🧠
+- **Issue**: The chatbot sometimes fails to remember the entire conversation history, especially when a client asks about multiple items consecutively.
+- **Impact**: This limits the chatbot's ability to provide coherent and context-aware responses in ongoing conversations.
+- **Status**: Under Investigation.
+
+### Database Connection Issues on Azure Web App 🌐💾
+- **Issue**: The API, when hosted on Azure Web App, seems to work only for the first few minutes before the database starts refusing additional connections.
+- **Impact**: This disrupts the functionality of the API after initial activation.
+- **Possible Cause**: The Hibernate and JPA, which are supposed to manage and close database connections, may not be functioning as expected.
+- **Status**: Under Investigation.
+
+### Inefficient Azure Service Utilization 💰📈
+- **Issue**: Multiple Azure services are currently being used where fewer could suffice, leading to unnecessary operational costs.
+- **Impact**: Higher costs than necessary for maintaining the project, but not at an extreme level.
+- **Status**: In the process of re-architecting to make the system more cost-efficient.
+
+---
+
 
 ## <a id="doc"></a>Future Plans 🌱🛠️
 
