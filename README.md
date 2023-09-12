@@ -12,7 +12,7 @@
 - [How to use](#manual)
 - [Techs](#techs)
 - [Endpoints](#endpoints)
-- [Documentation](#doc)
+- [Future Plans](#doc)
 
 
 ## <a id="intro"></a>Introduction
@@ -69,25 +69,59 @@ Or else download it manually at their site: https://insomnia.rest/download
 ---
 
 
-
 ## <a id="endpoints"></a>Endpoints
   | METHOD | ADDRESS                   | ENDPOINT |
 |--------|---------------------------|----------|
-| POST   | http://20.226.206.195:8000| query    |
-| GET    | http://20.226.206.195:8000| reset    |
-
-  
-
+| POST   | http://20.226.206.195:8000| /query    |
+| GET    | http://20.226.206.195:8000| /reset    |
 
 ---
 
 
-## <a id="techs"></a>Techs
+## <a id="techs"></a>Main Technologies and Dependencies
 
+For this project, we used a variety of technologies to develop a robust and scalable API.
 
+### Main Technologies
+- **Python**: Our primary language for developing the API, chosen for its simplicity and robust libraries.
+- **Flask**: An easy, light and highly customizable framework for fast and efficient API development.
+- **ACI/ACR**: Used for easy deployment and scaling via Azure Container Instances and Azure Container Registry.
+- **Java 17**: Employed for other backend services, known for its robustness and extensive libraries.
+- **PLSQL**: Utilized for seamless database interactions with Oracle Database.
+- **JavaScript**: Scripting language that adds interactivity to our web and mobile interfaces.
+- **React**: A JavaScript library focused on building dynamic and responsive UI for our web application.
+- **React Native**: Enables native mobile app development using JavaScript.
+- **Oracle Database**: Our primary database for storing and managing all project data.
 
+<br>
 
+### Frontend Specific
+
+- **Stack Navigator**: Handles routes and navigation in our React Native application.
+- **Async Storage**: Used for login validation, ensuring that only registered users can access the app.
+
+<br>
+
+### Others
+
+- **React-Native**: Chosen for mobile development, allows code reuse for both iOS and Android.
+- **Java-Spring**: Used in developing other backend services of the project.
+
+<br>
+
+### Dependencies
+
+- **cx_Oracle**: Allowed us to interact seamlessly with Oracle databases.
+- **langchain**: Assisted in language processing tasks.
+- **chromadb**: Used for database management. (needs Desktop Development C++ Tools + SQLITE3)
+- **unstructured**: Helped in handling unstructured data.
+- **tiktoken**: Used for tokenization tasks.
+- **gunicorn**: Served as our WSGI HTTP Server.
+- **Flask-Session**: Managed user sessions in our Flask application.
+- **openai**: Integrated the OpenAI GPT model for chat functionalities.
+
+While some of these dependecies might not be active in the project for this sprint, they are present at the version we are currently working to deliver on the next sprint. We might add more later on.
 ---
 
 
-## <a id="doc"></a>Documentation
+## <a id="doc"></a>Future Plans
