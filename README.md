@@ -12,8 +12,10 @@
 - [How to use](#manual)
 - [Techs](#techs)
 - [Endpoints](#endpoints)
+- [Known-Issues](#known-issues)
 - [Future Plans](#doc)
 - [Credits](#credits)
+- [Concluding Remarks](#conclusion)
 
 
 ## 🚀🚀 <a id="intro"></a>Introduction 🚀🚀
