@@ -13,9 +13,10 @@
 - [Techs](#techs)
 - [Endpoints](#endpoints)
 - [Future Plans](#doc)
+- [Credits](#credits)
 
 
-## <a id="intro"></a>Introduction
+## 🚀🚀 <a id="intro"></a>Introduction 🚀🚀
 
   We are proud to announce the 3rd Sprint of the 2023 FIAP + PLUSOFT Challenge. We aimed to deliver precisely what we were asked to: a new chatbot integrated with OpenAI's groundbreaking ChatGPT, trained toward a more focused area.
 
@@ -33,7 +34,7 @@
 ---
 
 
-## <a id="install"></a>Installation
+## 🔧🔧 <a id="install"></a>Installation 🔧🔧
 
   For this specific API, all you need to do is:
   ### 1. Clone the repository
@@ -58,7 +59,7 @@
 ---
 
 
-## <a id="manual"></a>How to use
+## 📖📖 <a id="manual"></a>How to use 📖📖
 
 To test the API, you will need an API CLIENT, such as Insomnia.
 
@@ -82,7 +83,7 @@ Or else download it manually at their site: https://insomnia.rest/download
 
 For this project, we used a variety of technologies to develop a robust and scalable API.
 
-### Main Technologies
+### 💻 Main Technologies
 - **Python**: Our primary language for developing the API, chosen for its simplicity and robust libraries.
 - **Flask**: An easy, light and highly customizable framework for fast and efficient API development.
 - **ACI/ACR**: Used for easy deployment and scaling via Azure Container Instances and Azure Container Registry.
@@ -95,21 +96,21 @@ For this project, we used a variety of technologies to develop a robust and scal
 
 <br>
 
-### Frontend Specific
+### 💻 Frontend Specific
 
 - **Stack Navigator**: Handles routes and navigation in our React Native application.
 - **Async Storage**: Used for login validation, ensuring that only registered users can access the app.
 
 <br>
 
-### Others
+### 📦 Others
 
 - **React-Native**: Chosen for mobile development, allows code reuse for both iOS and Android.
 - **Java-Spring**: Used in developing other backend services of the project.
 
 <br>
 
-### Dependencies
+### 📦 Dependencies
 
 - **cx_Oracle**: Allowed us to interact seamlessly with Oracle databases.
 - **langchain**: Assisted in language processing tasks.
@@ -120,8 +121,64 @@ For this project, we used a variety of technologies to develop a robust and scal
 - **Flask-Session**: Managed user sessions in our Flask application.
 - **openai**: Integrated the OpenAI GPT model for chat functionalities.
 
-While some of these dependecies might not be active in the project for this sprint, they are present at the version we are currently working to deliver on the next sprint. We might add more later on.
+<br>
+<p align="center">While some of these dependecies might not be active in the project for this sprint, they are present at the version we are currently working to deliver on the next sprint. Expect changes for the next sprint, as tests goes on. </p>
+
 ---
 
 
-## <a id="doc"></a>Future Plans
+## <a id="doc"></a>Future Plans 🌱🛠️
+
+We have several exciting features and improvements planned for the future sprint:
+
+- **Security Measures**: 🛡️🔒 Working on several fronts to bolster security:
+  - 🛡️ Implementing advanced authentication techniques for enhanced security.
+  - 🔒 Improving the management of sensitive information using Azure Key Vaults and environment variables. (Note: These features are still in the process of being fully implemented.)
+
+- **Data Visualization Tools**: 📊💡 
+  - 📊 Creating intuitive dashboards and interactive charts to help our partner companies make data-driven decisions.
+  - 💡 These tools will serve as strategic assets for businesses, enabling them to understand customer behaviors, track chatbot performance, and identify areas for improvement.
+
+- **Other Short-Term Enhancements**: 
+  - Continued performance optimizations, bug fixes, and UI/UX improvements.
+
+We're committed to continuously improving the system based on feedback and technological advancements.
+
+---
+
+
+## <a id="credits"></a>Credits 👏🌟
+
+This project was a collaborative effort and wouldn't have been possible without the contributions of:
+
+- **Filipe Santos**: 👨‍💻🌩
+  - **Role**: API Development, Cloud Deployment and GPT-Chatbot Training.
+  - **Courses**: 
+    - Enterprise Application Development
+    - Digital Business Enablement
+    - Disruptive Architectures - IOT, IOB, AI
+    - DevOps
+  
+- **Jorge Camara**: 👨‍💻🎨
+  - **Role**: Front-End Development and Testing.
+  - **Courses**: 
+    - Hybrid Mobile App Development
+    - DevOps
+  
+- **Vitor Madureira**: 👨‍💻📊
+  - **Role**: Database Management and Quality Assurance.
+  - **Courses**: 
+    - Compliance and Quality Assurance
+    - Database Application and Data Science
+
+Each individual brought unique skills and perspectives to the table, making the project more robust and well-rounded.
+
+---
+
+
+## <a id="conclusion"></a>Concluding Remarks 🎯🛠
+
+This project is a work-in-progress and, while we are proud of what we have accomplished so far, we recognize that there is room for improvement. We are actively working to refine the system, address its limitations, and expand its capabilities. Your feedback is crucial for us, so feel free to open issues or contribute to the repository.
+
+<p align="center"><b>We're not there yet, but we're committed to getting there. Thank you for being part of this journey with us.</b></p>
+
