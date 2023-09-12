@@ -71,10 +71,11 @@ Or else download it manually at their site: https://insomnia.rest/download
 
 
 ## <a id="endpoints"></a>Endpoints
-  | METHOD | ADDRESS                   | ENDPOINT |
-|--------|---------------------------|----------|
-| POST   | http://20.226.206.195:8000| /query    |
-| GET    | http://20.226.206.195:8000| /reset    |
+  | METHOD | ADDRESS                   | ENDPOINT | DESCRIPTION                      | JSON BODY EXAMPLE                |
+|--------|---------------------------|----------|----------------------------------|----------------------------------|
+| POST   | http://20.226.206.195:8000| /query   | Make the question to the chatbot  | `{"query" : "ask the chatbot"}` |
+| GET    | http://20.226.206.195:8000| /reset   | Resets the session with the chatbot  | N/A (GET method)                  |
+
 
 ---
 
